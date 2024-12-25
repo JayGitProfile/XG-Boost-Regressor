@@ -2,7 +2,7 @@
 
 To run code:
 
-Copy and paste exercise.csv and calories.csv on your desktop from files folder.
-Execute the .ipynb notebook.
-Edit file path in code.
-Execute all commands.
+1. Copy and paste exercise.csv and calories.csv on your desktop from files folder.
+2. Execute the .ipynb notebook.
+3. Edit file path in code.
+4. Execute all commands.
