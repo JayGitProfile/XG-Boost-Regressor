@@ -1,4 +1,4 @@
-# XG-Boost-Regressor
+#  Predict the calories burnt exercising using the XGBoost Regressor
 
 To run code:
 
